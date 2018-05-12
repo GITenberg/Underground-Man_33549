@@ -1,0 +1,47 @@
+_repo: Underground-Man_33549
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+  translator:
+    agent_name: Brereton, Cloudesley
+    alias: Brereton, Cloudesley Shovell Henry
+    birthdate: 1863
+    deathdate: 1937
+    gutenberg_agent_id: '1463'
+    url: http://www.gutenberg.org/2009/agents/1463
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tarde, Gabriel de
+    aliases:
+    - Tard, G. (Gabriel)
+    - De Tarde, Gabriel
+    - Tarde, Jean Gabriel de
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '36467'
+    url: http://www.gutenberg.org/2009/agents/36467
+description: ''
+gutenberg_issued: '2010-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33549'
+  lccn: 06002286
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization, Modern'
+- !lcc 'HX'
+title: Underground Man
+url: http://www.gutenberg.org/ebooks/33549
